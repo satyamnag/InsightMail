@@ -19,8 +19,8 @@ Built with lightweight OpenAI Agents SDK and Gradio, it plans intelligent search
 #### FROM_EMAIL=verified_sender@example.com
 #### TO_EMAIL=recipient@example.com
 
-## 📧 Received Email Report
-[View Full PDF]([./docs/myfile.pdf](https://github.com/satyamnag/InsightMail/blob/08c96245acad098268652671c6cfa392c0c5a182/docs/Report.pdf))
+## 📧 Received Email Report from InsightMail
+[View Full PDF]([./docs/Report.pdf])
 
 ## 📸 Demo Screenshots
 ---
@@ -35,4 +35,5 @@ Built with lightweight OpenAI Agents SDK and Gradio, it plans intelligent search
 ![e](https://github.com/satyamnag/InsightMail/blob/d386030ed32b52d35e11aa40e4c9647c97c0b6cf/assets/e.png)
 ---
 ![f](https://github.com/satyamnag/InsightMail/blob/d386030ed32b52d35e11aa40e4c9647c97c0b6cf/assets/f.png)
+
 
