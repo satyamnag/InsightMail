@@ -22,7 +22,12 @@ Built with lightweight OpenAI Agents SDK and Gradio, it plans intelligent search
 ## 📧 Received Email Report from InsightMail
 
 [📄 View PDF Report](https://drive.google.com/file/d/1YDnXtp6MwZUhJpaFy1x82nkK2tRUignR/view?usp=sharing)
+
 <iframe src = "https://drive.google.com/file/d/1YDnXtp6MwZUhJpaFy1x82nkK2tRUignR/view?usp=sharing" width="100%" height="600px"></iframe>
+
+<a href="https://drive.google.com/file/d/1YDnXtp6MwZUhJpaFy1x82nkK2tRUignR/view?usp=sharing" target="_blank" rel="noopener noreferrer">
+  📄 View PDF in New Tab
+</a>
 
 ## 📸 Demo Screenshots
 ---
@@ -37,6 +42,7 @@ Built with lightweight OpenAI Agents SDK and Gradio, it plans intelligent search
 ![e](https://github.com/satyamnag/InsightMail/blob/d386030ed32b52d35e11aa40e4c9647c97c0b6cf/assets/e.png)
 ---
 ![f](https://github.com/satyamnag/InsightMail/blob/d386030ed32b52d35e11aa40e4c9647c97c0b6cf/assets/f.png)
+
 
 
 
